@@ -1,0 +1,9 @@
+.column{
+    float: left;
+    padding: 2%;
+}
+
+.column > img{
+    display: block;
+    margin: 2px;
+}
