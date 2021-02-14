@@ -1,5 +1,5 @@
-#  band website
-#### This is a band website 2021,15 February
+#  photography portfolio
+#### This is a photography portfolio 2021,15 February
 #### By **Wangechi Kimani**
 ## Description
 This website helps users to see the different styles of photos and the photographes proficient work
@@ -36,4 +36,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 Copyright (c) 2021 
-  
+ 
